@@ -1,0 +1,6 @@
+{
+  "name": "Personal Money Ledger",
+  "description": "A simple personal notebook to track how much money each person or shopkeeper owes you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
